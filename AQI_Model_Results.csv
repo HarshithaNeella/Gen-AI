@@ -1,0 +1,11 @@
+params,mean_test_score,std_test_score,rank_test_score,test_r2,training_time
+"{'model__n_estimators': 150, 'model__min_samples_split': 5, 'model__min_samples_leaf': 4, 'model__max_depth': 15}",0.9465469384947518,0.00508724674544826,1,0.9432231175929505,448.5428566932678
+"{'model__n_estimators': 100, 'model__min_samples_split': 2, 'model__min_samples_leaf': 2, 'model__max_depth': 5}",0.936776477537377,0.0038453771165266196,9,0.9432231175929505,448.5428566932678
+"{'model__n_estimators': 100, 'model__min_samples_split': 5, 'model__min_samples_leaf': 1, 'model__max_depth': 5}",0.9361815347164437,0.004249087870042661,10,0.9432231175929505,448.5428566932678
+"{'model__n_estimators': 150, 'model__min_samples_split': 2, 'model__min_samples_leaf': 1, 'model__max_depth': None}",0.9453383712941603,0.004520569570276499,6,0.9432231175929505,448.5428566932678
+"{'model__n_estimators': 150, 'model__min_samples_split': 10, 'model__min_samples_leaf': 1, 'model__max_depth': 15}",0.9458125790962052,0.0041056930191718626,5,0.9432231175929505,448.5428566932678
+"{'model__n_estimators': 100, 'model__min_samples_split': 5, 'model__min_samples_leaf': 2, 'model__max_depth': 15}",0.9458469109995408,0.004325448963607713,4,0.9432231175929505,448.5428566932678
+"{'model__n_estimators': 50, 'model__min_samples_split': 5, 'model__min_samples_leaf': 1, 'model__max_depth': 10}",0.9452001063550313,0.0052144112394266525,7,0.9432231175929505,448.5428566932678
+"{'model__n_estimators': 50, 'model__min_samples_split': 2, 'model__min_samples_leaf': 4, 'model__max_depth': 10}",0.9462235557379206,0.005197656908407234,2,0.9432231175929505,448.5428566932678
+"{'model__n_estimators': 150, 'model__min_samples_split': 5, 'model__min_samples_leaf': 2, 'model__max_depth': None}",0.9461959324067715,0.004601098584362929,3,0.9432231175929505,448.5428566932678
+"{'model__n_estimators': 150, 'model__min_samples_split': 2, 'model__min_samples_leaf': 2, 'model__max_depth': 5}",0.9368344679742021,0.0037929066240594334,8,0.9432231175929505,448.5428566932678
